@@ -25,8 +25,17 @@ In conclusion, the RESTful API Development project is a foundational backend app
 
 #OUTPUT 
 
+Get all the books
 <img width="1240" height="627" alt="Image" src="https://github.com/user-attachments/assets/ef204e97-112f-4a38-b80c-08c0117bc96d" />
+
+Get the book with a particular ID
 <img width="1260" height="468" alt="Image" src="https://github.com/user-attachments/assets/ea61b8cc-b382-4407-b59f-b07ec9ea4439" />
+
+Add(Post) a new book
 <img width="1237" height="690" alt="Image" src="https://github.com/user-attachments/assets/dd87aad8-25c5-4553-b807-df0e3149dc44" />
+
+Put to update a book
 <img width="1247" height="685" alt="Image" src="https://github.com/user-attachments/assets/3fc8435a-f550-4c5b-a356-25e785b7883c" />
+
+Delete a particular book
 <img width="1248" height="696" alt="Image" src="https://github.com/user-attachments/assets/80248e02-a0ac-4aff-ab11-45a9aa41a119" />
