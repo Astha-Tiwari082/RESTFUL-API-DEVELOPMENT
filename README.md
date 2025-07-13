@@ -22,3 +22,11 @@ Security and data validation were also important considerations during developme
 This type of RESTful API has a wide range of real-world applications. In an educational setting, it could be part of a digital library system used by schools or universities to manage book records and student borrowing history. In a commercial context, it can be adapted into an inventory management tool for small businesses to track their products, manage stock levels, and generate reports. It can also serve as the backend of an e-commerce platform, where products, users, and orders are managed through clean, modular endpoints.
 From a learning and skills development perspective, this project reflects a solid understanding of backend development, RESTful architecture, data modeling, API security, and asynchronous programming in JavaScript. It also introduces students and developers to the separation of concerns in software design—keeping logic, routing, and data access modular and reusable.
 In conclusion, the RESTful API Development project is a foundational backend application that can be extended and integrated into larger systems. It emphasizes clean design, reusability, and efficiency, and showcases the ability to build real-world APIs that can power modern web or mobile applications. Whether used for educational, commercial, or personal development purposes, it represents a core competency for any aspiring full-stack or backend developer.
+
+#OUTPUT 
+
+<img width="1240" height="627" alt="Image" src="https://github.com/user-attachments/assets/ef204e97-112f-4a38-b80c-08c0117bc96d" />
+<img width="1260" height="468" alt="Image" src="https://github.com/user-attachments/assets/ea61b8cc-b382-4407-b59f-b07ec9ea4439" />
+<img width="1237" height="690" alt="Image" src="https://github.com/user-attachments/assets/dd87aad8-25c5-4553-b807-df0e3149dc44" />
+<img width="1247" height="685" alt="Image" src="https://github.com/user-attachments/assets/3fc8435a-f550-4c5b-a356-25e785b7883c" />
+<img width="1248" height="696" alt="Image" src="https://github.com/user-attachments/assets/80248e02-a0ac-4aff-ab11-45a9aa41a119" />
